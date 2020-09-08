@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe 'Route to view' do
+describe 'Student' do
   it 'has an index page' do
     visit "/students"
 
